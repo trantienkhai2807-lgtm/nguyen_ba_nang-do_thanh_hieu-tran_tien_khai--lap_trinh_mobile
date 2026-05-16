@@ -58,8 +58,6 @@ https://youtube.com/shorts/HEuTrycyiLw
 
 # Hướng dẫn chạy chương trình
 
-## Cài đặt thư viện
-
 ```bash
 npm install
 ```
