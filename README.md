@@ -68,6 +68,6 @@ npx expo start
 
 ## 🎥 Link Video Demo
 Xem video demo các chức năng chính của ứng dụng tại đây:  
-🔗 **[Video Demo trên YouTube]([[https://youtube.com/shorts/HEuTrycyiLw](https://youtube.com/shorts/MaCds0afpBc)](https://youtube.com/shorts/MaCds0afpBc))**
+🔗 **[Video Demo trên YouTube]https://youtube.com/shorts/MaCds0afpBc
 
 - **Figma Design:** [Xem bản thiết kế Figma tại đây](https://www.figma.com/design/lYC7MCh6fDNj9eQb4fM9O1/mobile?node-id=0-1&t=rFhUb5xhtZvjkObo-1)
