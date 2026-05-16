@@ -59,12 +59,12 @@ npx expo start
 
 ## 🖼 Hình Ảnh Minh Họa Hệ Thống
 
-![Trang chủ](./anh/trangchu.jpg)
-![Giỏ hàng](./anh/giohang.jpg)
-![Thanh toán](./anh/thanhtoan.jpg)
-![Quản lý sản phẩm](./anh/quanlysanpham.jpg)
-![Quản lý đơn hàng](./anh/quanlydonhang.jpg)
-![Admin](./anh/admin.jpg)
+![Trang chủ](./src/app/anhminhhoa/trangchu.jpg)
+![Giỏ hàng](./src/app/anhminhhoa/giohang.jpg)
+![Thanh toán](./src/app/anhminhhoa/thanhtoan.jpg)
+![Quản lý sản phẩm](./src/app/anhminhhoa/quanlysanpham.jpg)
+![Quản lý đơn hàng](./src/app/anhminhhoa/quanlydonhang.jpg)
+![Admin](./src/app/anhminhhoa/admin.jpg)
 
 ## 🎥 Link Video Demo
 Xem video demo các chức năng chính của ứng dụng tại đây:  
