@@ -35,11 +35,11 @@
 
 1. Clone dự án về máy của bạn:
    ```bash
-   git clone [URL_REPO_CỦA_BẠN]
+   git clone https://github.com/trantienkhai2807-lgtm/nguyen_ba_nang-do_thanh_hieu-tran_tien_khai--lap_trinh_mobile.git
    ```
 2. Di chuyển vào thư mục dự án:
    ```bash
-   cd [TÊN_THƯ_MỤC_DỰ_ÁN]
+   cd nguyen_ba_nang-do_thanh_hieu-tran_tien_khai--lap_trinh_mobile
    ```
 3. Cài đặt các thư viện và dependencies:
    ```bash
