@@ -42,7 +42,7 @@ https://www.figma.com/design/SMvSMMWJq3ythW8qBvr7JC/Implement-detailed-page-feat
 # Video Demo
 
 Link Demo:  
-https://youtube.com/shorts/HEuTrycyiLw
+[https://youtube.com/shorts/HEuTrycyiLw](https://youtube.com/shorts/MaCds0afpBc)
 
 ---
 
